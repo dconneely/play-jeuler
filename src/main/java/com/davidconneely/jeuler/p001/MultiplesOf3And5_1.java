@@ -1,8 +1,6 @@
 package com.davidconneely.jeuler.p001;
 
 /**
- *
- *
  * <h3>Multiples of 3 and 5</h3>
  *
  * <h4>Problem 1</h4>
